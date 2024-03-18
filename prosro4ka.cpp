@@ -41,7 +41,7 @@ int main()
     for (int i = 0; i < SIZE; i++) {
         cout << b[i] << " ";
     }
-
+    cout << "CODE TESTER_1`s" << endl;
 
 
     return 0;
